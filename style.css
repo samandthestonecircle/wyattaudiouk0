@@ -73,28 +73,11 @@ p3 {
     color: greenyellow;
 }
 
-@media screen and (max-width: 640px){
- 
-    #logo {
-    width: 90%;
-
-    position: absolute;
-    top: 10%;
-    left: 50%;
-    transform: translate(-50%);
-    opacity: 0.8;
-    /* border: 1px solid red; */
-   
-
-  
-    
-}
-    
-}
 
 
 
-@media screen and (min-width: 640px){
+
+
    
 
     #showreel {
@@ -115,7 +98,7 @@ p3 {
   
     
 }
-}
+
 
 /* LANDING PAGE */
 #landing-page {
@@ -999,6 +982,7 @@ footer {
     font-size: 0.75em;
     margin-right: 20px;
 }
+
 
 
 
