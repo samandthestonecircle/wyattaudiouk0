@@ -74,10 +74,7 @@ p3 {
 }
 
 @media screen and (max-width: 640px){
-    #landing-page {
-        height: 100vh;
-    }
-
+ 
     #logo {
     width: 90%;
 
@@ -1002,5 +999,6 @@ footer {
     font-size: 0.75em;
     margin-right: 20px;
 }
+
 
 
