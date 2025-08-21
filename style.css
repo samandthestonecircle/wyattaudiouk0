@@ -123,7 +123,7 @@ p3 {
 /* LANDING PAGE */
 #landing-page {
     position:relative;
-
+overflow:hidden;
 
  
 }
@@ -1002,4 +1002,5 @@ footer {
     font-size: 0.75em;
     margin-right: 20px;
 }
+
 
